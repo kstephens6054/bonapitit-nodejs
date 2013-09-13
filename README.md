@@ -1,15 +1,8 @@
-# bonanza
+# bonapitit-nodejs
 
-## Objective
+A Node.js wrapper for the Bonanza Bonapitit ecommerce API.
 
+Bonanza: http://www.bonanza.com
+Bonapitit API documentation: http://apidocs.bonanza.com
 
-
-## Usage
-
-
-
-## Developing
-
-
-Created with [Nodeclipse v0.4](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
+Stay tuned...
