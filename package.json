@@ -2,26 +2,30 @@
   "name": "bonapitit-nodejs",
   "version": "0.1.0",
   "description": "Node.js wrapper for the Bonanza Bonapitit ecommerce API.",
-  "keywords": [
-    "bonanza",
-    "bonapitit",
-    "bonanzle",
-    "ecommerce"
-  ],
-  "tags": [
-    "bonanza",
-    "bonapitit",
-    "bonanzle",
-    "ecommerce"
-  ],
+  "keywords": ["bonanza", "bonapitit", "bonanzle", "ecommerce"],
+  "tags": ["bonanza", "bonapitit", "bonanzle", "ecommerce"],
   "author": "Kurt Stephens <kstephens6054@gmail.com>",
-  "repository": { "type": "git", "url": "https://github.com/kstephens6054/bonapitit-nodejs.git" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kstephens6054/bonapitit-nodejs.git"
+  },
   "license": "MIT",
   "readmeFilename": "README.md",
-  "directories" : { "lib" : "./lib" },
+  "directories": {
+    "lib": "./lib"
+  },
   "main": "./lib/bonapitit-nodejs.js",
-  "scripts": { "test": "None yet"},
-  "dependencies": { "needle": "" },
-  "devDependencies": { "mocha": "", "should": "" },
-  "engines": { "node": ">= 0.4.x" }
+  "scripts": {
+    "test": "None yet"
+  },
+  "dependencies": {
+    "needle": ""
+  },
+  "devDependencies": {
+    "mocha": "",
+    "should": ""
+  },
+  "engines": {
+    "node": ">= 0.4.x"
+  }
 }
